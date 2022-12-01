@@ -29,7 +29,7 @@ My name is Braeden, and I'm a Computer Science major at Texas A&M. Welcome to my
 </div>
 
 ## Current Project
-I'm currently working on challenges.lol, a website for viewing challenge progress in League of Legends! I'm writing it using Blazor, a new(-ish?) web framework for ASP.NET. I'll link the repository below when I feel ready to make it public.
+I'm currently working on Challenges.LoL, a website for viewing challenge progress in League of Legends! I'm writing it using Blazor, a new(-ish?) web framework for ASP.NET. The repository is linked below.
 <div>
   <a href="https://github.com/BraedenSmith29/LolChallenges">
       <img src="https://img.shields.io/badge/Challenges.LoL-EEBC1D?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Repository"/>
