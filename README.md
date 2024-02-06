@@ -27,11 +27,3 @@ My name is Braeden, and I'm a Computer Science major at Texas A&M. Welcome to my
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" width="40" height="40"/>&nbsp;
 </div>
-
-## Current Project
-I'm currently working on One Six Eight, a small web application designed to help users easily budget their time and become more productive.
-<div>
-  <a href="https://github.com/BraedenSmith29/one-six-eight">
-      <img src="https://img.shields.io/badge/One%20Six%20Eight-EEBC1D?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Repository"/>
-  </a>
-</div>
