@@ -2,15 +2,16 @@
 
 My name is Braeden, and I'm a Computer Science major at Texas A&M. Welcome to my profile!
 
-- 📫 How to reach me: Email me at [braedensmith29@tamu.edu](mailto:braedensmith29@tamu.edu) or message me on [LinkedIn](https://www.linkedin.com/in/braedensmith29/).
+- 📫 How to reach me: Message me on [LinkedIn](https://www.linkedin.com/in/braedensmith29/).
 - ⚡ Fun fact: My favorite game is Titanfall 2, but I also play a lot of League of Legends. Here's the [u.gg](https://u.gg/lol/profile/na1/aspectofoneshots/overview) for those interested.
-<br />
 
 <div>
-  <a href="https://www.linkedin.com/in/braedensmith29/">
+  <a href="https://www.linkedin.com/in/braedensmith29/" style="text-decoration: none !important">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://open.spotify.com/playlist/5sXQbRXHJYvFThkVSyWwIz?si=7236168e596d4522">
+</div>
+<div>
+  <a href="https://open.spotify.com/playlist/5sXQbRXHJYvFThkVSyWwIz?si=7236168e596d4522" style="text-decoration: none">
     <img src="https://img.shields.io/badge/Spotify%20Playlist-darkgreen?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
   </a>
 </div>
